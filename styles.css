@@ -1,3 +1,7 @@
+.rec-title{
+    text-emphasis-style: triangle;
+}
+
 .rec-header{
     background-color: red;
 }
