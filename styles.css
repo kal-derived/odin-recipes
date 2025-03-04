@@ -9,3 +9,27 @@
 .rec-section{
     background-color: cadetblue;
 }
+
+.listItem{
+    box-sizing: border-box;
+    width: fit-content;
+    margin: 10px auto;
+    margin-left: 0px;
+    padding: 5px 0px;
+    background-color: lightgray;
+    list-style: none;
+}
+
+.site-title{
+    text-emphasis-style: open;
+    text-align: center;
+    line-break: anywhere;
+}
+
+.enclosure{
+    box-sizing: border-box;
+    border: 5px solid black;
+    margin: 0 auto; 
+    width:fit-content;
+    padding: 1em;
+}
